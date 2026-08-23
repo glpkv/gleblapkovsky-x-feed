@@ -20,31 +20,54 @@ jobs:
 
     steps:
       - name: Check out the feed
+        continue-on-error: true
         uses: actions/checkout@v4
 
       - name: Set up Node.js
+        if: always()
+        continue-on-error: true
         uses: actions/setup-node@v4
         with:
           node-version: 22
           cache: npm
 
       - name: Install dependencies
+        if: always()
+        continue-on-error: true
         run: npm ci
 
       - name: Install Chromium
+        if: always()
+        continue-on-error: true
         run: npx playwright install --with-deps chromium
 
       - name: Read the latest public posts
+        if: always()
         continue-on-error: true
         run: npm run sync
 
-      - name: Save feed changes
+      - name: Keep the schedule active
+        if: always()
+        continue-on-error: true
+        run: |
+          current_week=$(date -u +%G-W%V)
+          if [ ! -f schedule-heartbeat.txt ] || [ "$(cat schedule-heartbeat.txt)" != "$current_week" ]; then
+            printf '%s\n' "$current_week" > schedule-heartbeat.txt
+          fi
+
+      - name: Save feed and heartbeat changes
+        if: always()
+        continue-on-error: true
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add x-posts.json
+          git add x-posts.json schedule-heartbeat.txt
           if git diff --cached --quiet; then
             exit 0
           fi
           git commit -m "Update public X feed"
           git push
+
+      - name: Finish without notification noise
+        if: always()
+        run: echo "The last saved feed remains available even if X was temporarily unreachable."
