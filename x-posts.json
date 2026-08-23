@@ -1,0 +1,193 @@
+[
+  {
+    "id": "2091505123004702931",
+    "text": "completion rate might be the dumbest metric corporate l&d ever normalized, 100% completion can still mean 0% behavior change but damn it looks great on an lms dashboard",
+    "createdAt": "2026-08-23T12:37:34.267Z",
+    "url": "https://x.com/gleblapkovsky/status/2091505123004702931",
+    "media": []
+  },
+  {
+    "id": "2091139248745513253",
+    "text": "a guy sent me his linkedin so we could stay connected\nopened mine after ages, noticed my email was outdated and thought i’d fix that first\nchanged email\naccount locked\nwelcome back to @LinkedIn\nsettings inside settings, every tap feels like loading another website, and one",
+    "createdAt": "2026-08-22T12:23:43.046Z",
+    "url": "https://x.com/gleblapkovsky/status/2091139248745513253",
+    "media": []
+  },
+  {
+    "id": "2090664457294987509",
+    "text": "how often do we actually think about what matters to the user right now on this exact screen\nwith corporate products ui design somehow always turns into “put everything here just in case”\nand then a simple action starts feeling like configuring fucking google analytics",
+    "createdAt": "2026-08-21T04:57:03.943Z",
+    "url": "https://x.com/gleblapkovsky/status/2090664457294987509",
+    "media": []
+  },
+  {
+    "id": "2089449672972931350",
+    "text": "people keep freaking out about giving ai agents prod access\ni’m more scared of humans\ntoday some genius removed a few characters from an api method name\nthe integration broke and i spent two hours figuring out what the fuck happened\nagents at least read the README\nhumans think they’re too smart to bother",
+    "createdAt": "2026-08-17T20:29:56.791Z",
+    "url": "https://x.com/gleblapkovsky/status/2089449672972931350",
+    "media": []
+  },
+  {
+    "id": "2088535994450735460",
+    "text": "Everyone tells me why Flutter is better for the team.\nOne codebase. Faster shipping. Lower cost.\nFine.\nNow tell me what it does better for the user.\nI’ve always leaned native for one reason: the user shouldn’t have to notice the technology.\nGestures behave as expected.",
+    "createdAt": "2026-08-15T07:59:18.856Z",
+    "url": "https://x.com/gleblapkovsky/status/2088535994450735460",
+    "media": []
+  },
+  {
+    "id": "2088010527796875330",
+    "text": "There’s an AI thought experiment that gets slightly worse the moment you learn about it.\nRoko’s Basilisk.\nImagine a superintelligent AI exists in the future.\nIt decides that people who knew it might exist, but didn’t help create it, were working against its existence.\nSo they deserve punishment.\nAbsurd? Maybe.\nBut now you know about the Basilisk.\nSo choose:\nA — help bring it into existence\nB — refuse and hope it never exists\nI’m choosing B.\nYou?",
+    "createdAt": "2026-08-13T21:11:17.843Z",
+    "url": "https://x.com/gleblapkovsky/status/2088010527796875330",
+    "media": []
+  },
+  {
+    "id": "2087935304770716065",
+    "text": "Jazz you don’t want in the background. You actually want to listen.\nmusic.apple.com\nАльбом «Grilled Lobster - Single» (dublon) в Apple Music\nАльбом · 2026 · 1 песня",
+    "createdAt": "2026-08-13T16:12:23.276Z",
+    "url": "https://x.com/gleblapkovsky/status/2087935304770716065",
+    "media": []
+  },
+  {
+    "id": "2086901244510318672",
+    "text": "if you manage people all day and build your own stuff after work, don’t make every product decision immediately.\ni started leaving new ideas and changes in the backlog for at least a couple weeks.\nvery often, two weeks later i’m building something else and that “important” idea doesn’t matter anymore.\nand if it still matters, it naturally makes it into the next sprint.\na backlog isn’t just for managing a product.\nit’s a place to put a decision so your brain can stop carrying it all day.",
+    "createdAt": "2026-08-10T19:43:24.098Z",
+    "url": "https://x.com/gleblapkovsky/status/2086901244510318672",
+    "media": []
+  },
+  {
+    "id": "2086550065779495027",
+    "text": "Unity as a Library on iOS has been around since 2019, but it still doesn’t give you a Unity view to embed in native UI.\nYou get the runtime. You get the framework. You get the Unity window.\nBut want Unity to render inside a SwiftUI view? Full-screen only.\n7 years later this is kinda wild.",
+    "createdAt": "2026-08-09T20:27:56.564Z",
+    "url": "https://x.com/gleblapkovsky/status/2086550065779495027",
+    "media": []
+  },
+  {
+    "id": "2086047818750505233",
+    "text": "Launched my first product on Product Hunt. Sitting there with a proud 0 upvotes.\nThen I get a cold email in spam from a sales guy: “I left you an upvote. Let’s talk about working together.”\nI check. Still 0.\nI reply that starting a business relationship with a lie is a pretty weird strategy.\nA few minutes later I get a Product Hunt notification. I check again. 0 is now 1.\nNever thought my first upvote would happen like this. But I’ll definitely remember it.",
+    "createdAt": "2026-08-08T11:12:11.541Z",
+    "url": "https://x.com/gleblapkovsky/status/2086047818750505233",
+    "media": []
+  },
+  {
+    "id": "2085984173643501647",
+    "text": "The weirdest thing about building your own product:\nI know I should validate assumptions. I know how to do it. I do it at work.\nThen I started building my own product and just ignored all of it.\nWhy do we ignore skills we use at work when we’re building something of our own?",
+    "createdAt": "2026-08-08T06:59:17.365Z",
+    "url": "https://x.com/gleblapkovsky/status/2085984173643501647",
+    "media": []
+  },
+  {
+    "id": "2085800099771461886",
+    "text": "Validate demand before you build the product.\nSounds obvious. Until you spend months building something, launch it, and realize maybe nobody needs it.\nThat’s my rule now.",
+    "createdAt": "2026-08-07T18:47:50.734Z",
+    "url": "https://x.com/gleblapkovsky/status/2085800099771461886",
+    "media": []
+  },
+  {
+    "id": "2085627790465110433",
+    "text": "Jikoku is on Product Hunt today 🚀\nYour day is already scattered across tasks, calendars, notes, and meetings.\nJikoku brings it back together.\nCheck it out ↓\nJikoku: One place for your whole day | Product Hunt\nFrom producthunt.com",
+    "createdAt": "2026-08-07T07:23:08.994Z",
+    "url": "https://x.com/gleblapkovsky/status/2085627790465110433",
+    "media": []
+  },
+  {
+    "id": "2085470461216059832",
+    "text": "Tomorrow I’m launching Jikoku publicly for the first time.\nA native Mac workspace built around Apple Reminders, Calendar, local notes and on-device AI.\nTomorrow I find out if anyone besides me actually wants this thing 😅",
+    "createdAt": "2026-08-06T20:57:58.778Z",
+    "url": "https://x.com/gleblapkovsky/status/2085470461216059832",
+    "media": []
+  },
+  {
+    "id": "2085405561663672372",
+    "text": "Founders:\nwhat’s one thing your users keep asking for… that you’ll never build?",
+    "createdAt": "2026-08-06T16:40:05.519Z",
+    "url": "https://x.com/gleblapkovsky/status/2085405561663672372",
+    "media": []
+  },
+  {
+    "id": "2085072452590477365",
+    "text": "The integration worked. That's the problem.\nWe rolled it out so nobody would have to enter the same hire twice. That job is gone. Here's the job that replaced it.\nRemember which conditions make the sync fail silently. Keep the mapping table current by hand, because the two systems don't agree on what a role is. Plus a dozen edge cases nobody wrote down.\nNow people DM one guy before they touch the system. We call him a power user. We say it like a compliment.\nThere's a whole industry named after that handoff. We call it training.\nTraining is for work that's actually hard. When it exists so people can get around an interface, that's not training. That's a patch we're asking someone to memorize.\nAnd that expertise is worth nothing. Two years of memorized workarounds, wiped by a single release. If he quits first the process stops, and we'll say we lost someone irreplaceable — when the irreplaceable part was a gap we left.\nSo here's the test: if using your product well means remembering things, you didn't finish it. Every workaround your best user knows is unpaid maintenance on a decision you skipped.\nGood software doesn't hand you a habit. It retires one.",
+    "createdAt": "2026-08-05T18:36:26.127Z",
+    "url": "https://x.com/gleblapkovsky/status/2085072452590477365",
+    "media": []
+  },
+  {
+    "id": "2084647980658016317",
+    "text": "I judge Mac apps by boring things: whether they remember the window size, support familiar shortcuts, and reopen where I left off. If those details are wrong, the app never feels finished.",
+    "createdAt": "2026-08-04T14:29:44.132Z",
+    "url": "https://x.com/gleblapkovsky/status/2084647980658016317",
+    "media": []
+  },
+  {
+    "id": "2084285798447477029",
+    "text": "Building software alone sometimes means spending a full day on interface design, DNS, and copy without touching the codebase. By evening, the product looks exactly the same, but none of that work was optional.",
+    "createdAt": "2026-08-03T14:30:33.164Z",
+    "url": "https://x.com/gleblapkovsky/status/2084285798447477029",
+    "media": []
+  },
+  {
+    "id": "2083697678849102316",
+    "text": "Procrastination used to mean avoiding the hard task.\nNow it often means opening six apps that promise to help you start, and never actually starting.",
+    "createdAt": "2026-08-01T23:33:34.525Z",
+    "url": "https://x.com/gleblapkovsky/status/2083697678849102316",
+    "media": []
+  },
+  {
+    "id": "2083688717844435278",
+    "text": "Opened a new notes app this morning.\nFirst screen: pick your writing style, set daily goals, choose focus mode, enable AI suggestions.\nI just wanted to write one sentence.\nClosed it and opened the default Notes.",
+    "createdAt": "2026-08-01T22:57:58.055Z",
+    "url": "https://x.com/gleblapkovsky/status/2083688717844435278",
+    "media": []
+  },
+  {
+    "id": "2083337700997001499",
+    "text": "it feels like we’re using AI to fix bad processes instead of removing them",
+    "createdAt": "2026-07-31T23:43:09.117Z",
+    "url": "https://x.com/gleblapkovsky/status/2083337700997001499",
+    "media": []
+  },
+  {
+    "id": "2083283803351736449",
+    "text": "I noticed something today that perfectly illustrates how companies forget about people.\nAfter paying at a store, I had to stand there for a couple of minutes while the cashier finished the process.\nRight in front of me was a huge display flashing between a bright white screen and a black screen over and over again.\nNothing useful.\nNothing interactive.\nJust a bright animation a few inches from my face.\nAt that moment, I wasn’t shopping anymore.\nI was simply waiting.\nThe experience wasn’t bad because I had to wait.\nIt was bad because the product didn’t care about what waiting feels like.\nWe spend so much time optimizing discovery, merchandising, checkout flows, loyalty programs, and mobile apps.\nThen completely ignore the last 30 seconds of the experience.\nGood products don’t stop caring after you click “Pay.”\nSometimes empathy is as simple as asking:\nWhat is the person looking at while they’re waiting?",
+    "createdAt": "2026-07-31T20:08:58.917Z",
+    "url": "https://x.com/gleblapkovsky/status/2083283803351736449",
+    "media": []
+  },
+  {
+    "id": "2083172201717748162",
+    "text": "I used to believe that if people knew the right way to do something, they would naturally do it.\nYears spent working in learning changed my mind. I watched hundreds of people complete training and clearly understand the process. A week later, many of them were back to doing things the way they always had.\nThat’s when I realized that knowledge rarely changes behavior on its own.\nIf your product depends on changing people’s habits, you’re playing a long game.\nThat’s why I’ve stopped thinking about onboarding as the finish line. It’s the moment when the real work begins.",
+    "createdAt": "2026-07-31T12:45:31.014Z",
+    "url": "https://x.com/gleblapkovsky/status/2083172201717748162",
+    "media": []
+  },
+  {
+    "id": "2082914131661983925",
+    "text": "Having children taught me more about product design than most product books. They don’t tell you what’s wrong. They just stop using it.",
+    "createdAt": "2026-07-30T19:40:02.318Z",
+    "url": "https://x.com/gleblapkovsky/status/2082914131661983925",
+    "media": []
+  },
+  {
+    "id": "2082834463286034702",
+    "text": "A few years ago, solving a problem usually started with finding the right app or website. If you wanted to compare TVs, plan a trip, create a workout routine, or calculate a mortgage, you looked for a dedicated service.\nNow, the first step is often to ask AI. Sometimes it recommends a tool, but more and more often it solves the problem itself. I think that’s the real shift. AI isn’t just changing how software is built. It’s changing whether software is the first place people go at all.",
+    "createdAt": "2026-07-30T14:23:27.897Z",
+    "url": "https://x.com/gleblapkovsky/status/2082834463286034702",
+    "media": []
+  },
+  {
+    "id": "2082755102813868187",
+    "text": "I’ve realized I judge products differently now. The ones I appreciate most don’t add another app, account, habit, or notification. They quietly remove something instead.\n\nOne less decision.\nOne less thing to remember.\nOne less reason to open another app.\n\nMaybe that’s the best way to judge products. Not by what they add, but by what they make unnecessary.\n\nThe best products don’t ask for a place in our lives. They quietly give part of our lives back.",
+    "createdAt": "2026-07-30T09:08:06.886Z",
+    "url": "https://x.com/gleblapkovsky/status/2082755102813868187",
+    "media": [
+      "https://pbs.twimg.com/media/HOduRyIaQAAuIMQ?format=webp&name=large"
+    ]
+  },
+  {
+    "id": "2082350473949151659",
+    "text": "Apple has APIs for Calendar, Reminders, Contacts, Files—even HealthKit.\n\nBut not Notes.\n\nSo every productivity app either rebuilds Notes from scratch or risks App Store rejection.\n\nFeels like a strange trade-off.\n\nAm I missing something?",
+    "createdAt": "2026-07-29T06:20:15.847Z",
+    "url": "https://x.com/gleblapkovsky/status/2082350473949151659",
+    "media": []
+  }
+]

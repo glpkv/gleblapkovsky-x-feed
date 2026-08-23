@@ -1,0 +1,12 @@
+{
+  "name": "gleblapkovsky-x-feed",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sync": "node scripts/sync-x-posts.mjs"
+  },
+  "devDependencies": {
+    "playwright": "1.62.0"
+  }
+}
