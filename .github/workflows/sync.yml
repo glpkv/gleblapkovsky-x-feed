@@ -1,9 +1,8 @@
 name: Update public X feed
 
+# The website now links directly to X; leave the legacy sync manual-only.
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "17 */3 * * *"
 
 permissions:
   contents: write
